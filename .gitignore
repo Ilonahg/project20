@@ -1,0 +1,38 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.env/
+.venv/
+.env.bak/
+env/
+.env/
+
+# Pytest
+.pytest_cache/
+htmlcov/
+
+# MyPy
+.mypy_cache/
+
+# IDE files
+.idea/
+.vscode/
+.ropeproject/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Pycharm settings
+.idea/
+
+# VS Code settings
+.vscode/
+
+# macOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
