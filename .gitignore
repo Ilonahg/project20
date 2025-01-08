@@ -36,3 +36,5 @@ htmlcov/
 
 # Windows specific
 Thumbs.db
+*.pyc
+__pycache__/
